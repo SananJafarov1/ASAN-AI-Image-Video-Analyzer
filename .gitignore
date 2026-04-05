@@ -1,0 +1,6 @@
+.claude/
+claude.md
+CLAUDE.md
+generate_docx.py
+*.docx
+cropped-*.jpg
